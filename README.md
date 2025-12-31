@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pengshuang
 - 👀 I’m interested in Natural Language Processing and Recommendation System
 - 🌱 I’m currently learning Distributed Training System, especially for Large Language Models.
-- 📫 Contact me: pengshuang92@gmail.com
+- 📫 Contact me: pengshuang92@163.com
 - 📖 Visit my Zhihu Page: https://www.zhihu.com/people/pengshuang92
 
 <!---
